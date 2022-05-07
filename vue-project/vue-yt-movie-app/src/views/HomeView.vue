@@ -1,7 +1,7 @@
-<template>
+`<template>
   <div class="home">
     <div class="feature-card">
-      <router-link to="/movie/tt0409591">
+      <router-link to="/movie/tt04095910">
         <img
           src="https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
           alt="Naruto Poster"

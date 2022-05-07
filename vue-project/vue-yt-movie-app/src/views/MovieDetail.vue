@@ -21,6 +21,7 @@ export default {
         .then((data) => {
           movie.value = data;
         });
+      // console.log(this.movie);
     });
     return {
       movie,
