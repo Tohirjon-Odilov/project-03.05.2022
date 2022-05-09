@@ -30,7 +30,7 @@
 // @ is an alias to /src
 /* eslint-disable */
 import Header from "../components/Header.vue";
-const axios = require("axios").default;
+// const axios = require("axios").default;
 import data from "../assets/data.json";
 export default {
   name: "HomeView",
